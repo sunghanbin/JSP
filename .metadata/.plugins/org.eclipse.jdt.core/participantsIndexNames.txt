@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4118558449.index
+\jsptaste\src

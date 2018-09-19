@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Sep 12 20:39:50 KST 2018
+org.eclipse.jst.jee.server\:servletTaste=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletTaste
+org.eclipse.jst.jee.server\:jsptaste=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\jsptaste
+org.eclipse.jst.jee.server\:servletMapping=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletMapping
+org.eclipse.jst.jee.server\:servletLife_cycle=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletLife_cycle

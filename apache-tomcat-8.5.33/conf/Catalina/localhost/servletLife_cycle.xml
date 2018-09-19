@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="D:\Jspwork\apache-tomcat-8.5.33\wtpwebapps\servletLife_cycle" path="/servletLife_cycle" reloadable="true" source="org.eclipse.jst.jee.server:servletLife_cycle"/>
