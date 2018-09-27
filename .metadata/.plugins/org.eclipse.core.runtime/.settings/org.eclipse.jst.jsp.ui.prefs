@@ -3,7 +3,8 @@ commentBorder=\#FFFFFF | null | null | null | null | null
 commentText=\#FFFFFF | null | null | null | null | null
 eclipse.preferences.version=1
 jsp_content=\#CFBFAD | null | null | null | null | null
-newFileTemplateName=New JSP File (html)
+newFileTemplateName=HTML5 format
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="jsp_new" deleted\="false" description\="html5 format" enabled\="true" name\="HTML5 format">&lt;%@ page language\="java" contentType\="text/html; charset\=EUC-KR"&\#13;\r\n\tpageEncoding\="EUC-KR"%&gt;&\#13;\r\n&lt;\!DOCTYPE html&gt;&\#13;\r\n &lt;html&gt;&\#13;\r\n  &lt;head&gt;&\#13;\r\n  \t&lt;meta charset\="${encoding}"&gt;&\#13;\r\n  \t&lt;title&gt;Insert title here&lt;/title&gt;&\#13;\r\n  &lt;/head&gt;&\#13;\r\n  &lt;body&gt;&\#13;\r\n  &\#13;\r\n  &lt;/body&gt;&\#13;\r\n &lt;/html&gt;</template></templates>
 tagAttributeEquals=\#CFBFAD | null | null | null | null | null
 tagAttributeName=\#FF007F | null | null | null | null | null
 tagAttributeValue=\#ECE47E | null | null | null | null | null
