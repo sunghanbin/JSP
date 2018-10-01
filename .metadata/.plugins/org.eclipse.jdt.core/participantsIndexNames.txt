@@ -1,3 +1,15 @@
 INDEX VERSION 1.130
+D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3579199587.index
+\Sessionprjt\src
+D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3141390418.index
+\Cookie\src
 D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4118558449.index
 \jsptaste\src
+D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\998455572.index
+\jspconfig\src
+D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4022600576.index
+\Sessionprj\src
+D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3376931783.index
+\Cookies\src
+D:\Jspwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4251037134.index
+\JspReq_REp\src
