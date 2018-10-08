@@ -1,9 +1,11 @@
 #Tomcat publish data
-#Fri Sep 28 16:53:38 KST 2018
-org.eclipse.jst.jee.server\:servletTaste=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletTaste
-org.eclipse.jst.jee.server\:FormData=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\FormData
-org.eclipse.jst.jee.server\:jsptaste=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\jsptaste
+#Sun Oct 07 19:56:08 KST 2018
 org.eclipse.jst.jee.server\:servletMapping=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletMapping
+org.eclipse.jst.jee.server\:JDBCconnect=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\JDBCconnect
+org.eclipse.jst.jee.server\:FormData=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\FormData
+org.eclipse.jst.jee.server\:servletparams=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletparams
+org.eclipse.jst.jee.server\:servletTaste=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletTaste
 org.eclipse.jst.jee.server\:jspconfig=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\jspconfig
+org.eclipse.jst.jee.server\:jsptaste=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\jsptaste
 org.eclipse.jst.jee.server\:JspReq_REp=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\JspReq_REp
 org.eclipse.jst.jee.server\:servletLife_cycle=D\:\\Jspwork\\apache-tomcat-8.5.33\\wtpwebapps\\servletLife_cycle
